@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8bd1e0a07e003094a92b77c2cca1f8d7
+  m_SerializeEntries:
+  - m_GUID: 027d1a97ae8e35e44bbb8f403a4db0a0
+    m_Address: Assets/Prefabs/House/House2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14f71790fe9a10c4b948145a5314313b
+    m_Address: Assets/Prefabs/House/8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17f4ccd9eabac614194a36a47173458d
+    m_Address: Assets/Prefabs/Road/Road Section.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18bef9e849b9a9f479983f67087c4f8b
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/Palm3_Small.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da7507c8219d914eb92fe40ffe3e3a4
+    m_Address: Assets/New Folder/Cars/police_car_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2279935e2e287a84ab2b061718a0d63f
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/Palm3_straight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2499abf9b50c954419c4c124aa72a495
+    m_Address: Assets/Project Data/Game/Prefabs/Animals/Animal Cat 04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d62fea0628a79541b71a89a7fe4a82e
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/House1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52a849415161c6c4bbb158963b1a3caa
+    m_Address: Assets/New Folder/Cars/passenger_car_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56b00875705636547b88583d9771b0c1
+    m_Address: Assets/New Folder/Cars/mail_truck.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 597e03a229d63b641a0706aac8cab579
+    m_Address: Assets/New Folder/Cars/high_speed_car.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b579c90e0738a74788f396a126e5f6b
+    m_Address: MainScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84aa23a104f632340b2a22d95ff42e75
+    m_Address: Assets/New Folder/Cars/passenger_car_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87032dca54c82a74a80a99b96f498573
+    m_Address: Assets/Prefabs/Road/RaceSection.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bc9b9dd4b75626488d2b91120c8e398
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/Palm3_leaning.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9293c915eb334134e9f8828ed3084290
+    m_Address: Assets/New Folder/Cars/ambulance.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 962865d1d5dc9414b829d4f01d73f1dd
+    m_Address: Assets/New Folder/Cars/limousine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982bbd81edd94c64ea234a5fe594d79f
+    m_Address: Assets/New Folder/Cars/roadster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: LevelScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7f5f3d0368b3f84c8854fc9f09f48c6
+    m_Address: Assets/Project Data/Game/Prefabs/Animals/Animal Cat 02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab11a9e2408e485468dd1434979653d9
+    m_Address: Assets/Prefabs/House/House3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af4ee10a2459b814f8dbb380928df496
+    m_Address: Assets/Project Data/Game/Prefabs/Animals/Animal Cat 05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3801009a5a4e6c4db81b7283812a1df
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/Rock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c27ea96b9dc849b49a135fd3b16f5419
+    m_Address: Assets/Lowpoly Style/Tropical Islands/3_Prefabs/Palmtree1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d72d7e67193dc004bb0d34d1f42c22bf
+    m_Address: Assets/New Folder/Cars/car_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc3373e71145d11458dd1e0843de3ff2
+    m_Address: LoadSceen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1e2bfd57f1707645ba5065336a429a6
+    m_Address: Assets/Project Data/Game/Prefabs/Animals/Animal Cat 03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e75859dcad9dced4d8570e27ef9224b6
+    m_Address: Assets/New Folder/Cars/swat_car.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e90e7d51dc3196c4697bf119ce3be05f
+    m_Address: Assets/Prefabs/House/House4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eae2a291df9f93b418378aaef1672956
+    m_Address: Assets/New Folder/Cars/taxi.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f189ed0d00cbd494e9c7ddb2adf40746
+    m_Address: Assets/Project Data/Game/Prefabs/Animals/Animal Cat 01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 600440e772b731449aec33eac1585a6c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0219ae3a1dbc1374795a243ddcbfa722, type: 2}
+    - {fileID: 11400000, guid: da0a3ff8bd0c9ff48a169d6d84fa65eb, type: 2}
